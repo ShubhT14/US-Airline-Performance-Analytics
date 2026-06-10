@@ -1,7 +1,7 @@
 # US Airline Performance Analytics
 ### COVID-19 Impact Analysis — 45 Million Flight Records (2019–2025)
 
-![Executive Summary]("C:\Projects\AirlineAnalysis\Executive Summary.png")
+![Executive Summary](Executive%20Summary.png)
 
 ## Project Question
 **"Which airlines and airports cost passengers the most time — and is delay 
@@ -38,13 +38,13 @@ performance getting better or worse post-COVID?"**
 
 ### Dashboard — 3 Pages
 **Page 1 — Executive Summary**
-![Executive Summary](page1-executive-summary.png)
+![Executive Summary](Executive%20Summary.png)
 
 **Page 2 — Airport & Route Performance**
-![Airport Performance](page2-airport-performance.png)
+![Airport Performance](Airport%20Performance.png)
 
 **Page 3 — COVID Impact Analysis**
-![COVID Impact](page3-covid-impact.png)
+![COVID Impact](Covid%20Impact.png)
 
 ## Key Insights
 
